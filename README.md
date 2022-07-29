@@ -14,7 +14,7 @@
 
 -📫 How to reach me: clovisateh02@gmail.com
 
--🌱 I’m currently learning to a Certified Kubernetes Administrator
+-🌱 I’m currently learning to get Certified Kubernetes Administrator
 
 -💡 Hashtag that describes me #DevOpsWizard
 
