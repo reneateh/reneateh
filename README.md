@@ -1,16 +1,20 @@
-### Hi there 👋
+                                                       Hi 👋, I'm Clovis Ateh
 
-<!--
-**clovisT2525/clovisT2525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+                                                    DevOps Engineer | Cloud Engineer
+                                           -----------------------------------------------------------
+                                                    
+                                                    The DevOps Guy who ♥ automating stuff
+                                                    
+                                                    
+🏢 I’m currently working with Softpartnas as DevOps Engineer
+🌱 I’m currently working on Setting up infra using Terraform over AWS
+📫 Ask me about DevOps Tools and Practices
+📫 How to reach me: clovisateh02@gmail.com
+🌱 I’m currently learning to a Certified Kubernetes Administrator
+💡 Hashtag that describes me #DevOpsWizard
+⚡Fun fact i love to automate stuff
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
