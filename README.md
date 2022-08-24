@@ -6,7 +6,7 @@
                                                    The DevOps Guy who ♥ automating stuff
                                                     
                                                     
--🏢 I’m currently working with Softpartnas as DevOps Engineer
+-🏢 I’m currently working with Wells Fargo as DevOps Engineer
 
 -🌱 I’m currently working on Setting up infra using Terraform over AWS
 
