@@ -1,6 +1,6 @@
                                                        Hi 👋, I'm Clovis Ateh
 
-                                                    DevOps Engineer | Cloud Engineer
+                                                    DevOps Engineer | Cloud Automation Engineer
                                           
                                                     
                                                    The DevOps Guy who ♥ automating stuff
