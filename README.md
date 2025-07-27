@@ -6,7 +6,7 @@
                                                    The DevOps Guy who ♥ automating stuff
                                                     
                                                     
--🏢 I’m currently working with Dominion Systems Inc as DevOps Engineer
+-🏢 I’m currently working with  4 Square IT Consulting as DevOps Engineer
 
 -🌱 I’m currently working on Setting up infra using Terraform over AWS
 
